@@ -1,0 +1,14 @@
+C:\Users\juare\source\repos\Factorial\bin\Debug\net8.0\Factorial.exe
+C:\Users\juare\source\repos\Factorial\bin\Debug\net8.0\Factorial.deps.json
+C:\Users\juare\source\repos\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+C:\Users\juare\source\repos\Factorial\bin\Debug\net8.0\Factorial.dll
+C:\Users\juare\source\repos\Factorial\bin\Debug\net8.0\Factorial.pdb
+C:\Users\juare\source\repos\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juare\source\repos\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\juare\source\repos\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\juare\source\repos\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\juare\source\repos\Factorial\obj\Debug\net8.0\Factorial.dll
+C:\Users\juare\source\repos\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+C:\Users\juare\source\repos\Factorial\obj\Debug\net8.0\Factorial.pdb
+C:\Users\juare\source\repos\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+C:\Users\juare\source\repos\Factorial\obj\Debug\net8.0\ref\Factorial.dll

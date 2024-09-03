@@ -1,0 +1,14 @@
+C:\Users\juare\source\repos\multiplos de 5\bin\Debug\net8.0\multiplos de 5.exe
+C:\Users\juare\source\repos\multiplos de 5\bin\Debug\net8.0\multiplos de 5.deps.json
+C:\Users\juare\source\repos\multiplos de 5\bin\Debug\net8.0\multiplos de 5.runtimeconfig.json
+C:\Users\juare\source\repos\multiplos de 5\bin\Debug\net8.0\multiplos de 5.dll
+C:\Users\juare\source\repos\multiplos de 5\bin\Debug\net8.0\multiplos de 5.pdb
+C:\Users\juare\source\repos\multiplos de 5\obj\Debug\net8.0\multiplos de 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juare\source\repos\multiplos de 5\obj\Debug\net8.0\multiplos de 5.AssemblyInfoInputs.cache
+C:\Users\juare\source\repos\multiplos de 5\obj\Debug\net8.0\multiplos de 5.AssemblyInfo.cs
+C:\Users\juare\source\repos\multiplos de 5\obj\Debug\net8.0\multiplos de 5.csproj.CoreCompileInputs.cache
+C:\Users\juare\source\repos\multiplos de 5\obj\Debug\net8.0\multiplos de 5.dll
+C:\Users\juare\source\repos\multiplos de 5\obj\Debug\net8.0\refint\multiplos de 5.dll
+C:\Users\juare\source\repos\multiplos de 5\obj\Debug\net8.0\multiplos de 5.pdb
+C:\Users\juare\source\repos\multiplos de 5\obj\Debug\net8.0\multiplos de 5.genruntimeconfig.cache
+C:\Users\juare\source\repos\multiplos de 5\obj\Debug\net8.0\ref\multiplos de 5.dll

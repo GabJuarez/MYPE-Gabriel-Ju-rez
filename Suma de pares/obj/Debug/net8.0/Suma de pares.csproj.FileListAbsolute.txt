@@ -1,0 +1,14 @@
+C:\Users\juare\source\repos\Suma de pares\bin\Debug\net8.0\Suma de pares.exe
+C:\Users\juare\source\repos\Suma de pares\bin\Debug\net8.0\Suma de pares.deps.json
+C:\Users\juare\source\repos\Suma de pares\bin\Debug\net8.0\Suma de pares.runtimeconfig.json
+C:\Users\juare\source\repos\Suma de pares\bin\Debug\net8.0\Suma de pares.dll
+C:\Users\juare\source\repos\Suma de pares\bin\Debug\net8.0\Suma de pares.pdb
+C:\Users\juare\source\repos\Suma de pares\obj\Debug\net8.0\Suma de pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juare\source\repos\Suma de pares\obj\Debug\net8.0\Suma de pares.AssemblyInfoInputs.cache
+C:\Users\juare\source\repos\Suma de pares\obj\Debug\net8.0\Suma de pares.AssemblyInfo.cs
+C:\Users\juare\source\repos\Suma de pares\obj\Debug\net8.0\Suma de pares.csproj.CoreCompileInputs.cache
+C:\Users\juare\source\repos\Suma de pares\obj\Debug\net8.0\Suma de pares.dll
+C:\Users\juare\source\repos\Suma de pares\obj\Debug\net8.0\refint\Suma de pares.dll
+C:\Users\juare\source\repos\Suma de pares\obj\Debug\net8.0\Suma de pares.pdb
+C:\Users\juare\source\repos\Suma de pares\obj\Debug\net8.0\Suma de pares.genruntimeconfig.cache
+C:\Users\juare\source\repos\Suma de pares\obj\Debug\net8.0\ref\Suma de pares.dll

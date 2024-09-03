@@ -1,0 +1,14 @@
+C:\Users\juare\source\repos\Serie de fibonacci\bin\Debug\net8.0\Serie de fibonacci.exe
+C:\Users\juare\source\repos\Serie de fibonacci\bin\Debug\net8.0\Serie de fibonacci.deps.json
+C:\Users\juare\source\repos\Serie de fibonacci\bin\Debug\net8.0\Serie de fibonacci.runtimeconfig.json
+C:\Users\juare\source\repos\Serie de fibonacci\bin\Debug\net8.0\Serie de fibonacci.dll
+C:\Users\juare\source\repos\Serie de fibonacci\bin\Debug\net8.0\Serie de fibonacci.pdb
+C:\Users\juare\source\repos\Serie de fibonacci\obj\Debug\net8.0\Serie de fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juare\source\repos\Serie de fibonacci\obj\Debug\net8.0\Serie de fibonacci.AssemblyInfoInputs.cache
+C:\Users\juare\source\repos\Serie de fibonacci\obj\Debug\net8.0\Serie de fibonacci.AssemblyInfo.cs
+C:\Users\juare\source\repos\Serie de fibonacci\obj\Debug\net8.0\Serie de fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\juare\source\repos\Serie de fibonacci\obj\Debug\net8.0\Serie de fibonacci.dll
+C:\Users\juare\source\repos\Serie de fibonacci\obj\Debug\net8.0\refint\Serie de fibonacci.dll
+C:\Users\juare\source\repos\Serie de fibonacci\obj\Debug\net8.0\Serie de fibonacci.pdb
+C:\Users\juare\source\repos\Serie de fibonacci\obj\Debug\net8.0\Serie de fibonacci.genruntimeconfig.cache
+C:\Users\juare\source\repos\Serie de fibonacci\obj\Debug\net8.0\ref\Serie de fibonacci.dll

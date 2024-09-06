@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 public class Program
 {
@@ -14,8 +14,14 @@ public class Program
         if (numero < 0)
         {
             Console.WriteLine("El factorial de un numero negativo no esta definido");
+            return;
         }
-        else while (i <= numero) 
+        else if (numero == 0)
+        {
+            Console.WriteLine("El factorial de 0 es: 1");
+            return;
+        }
+        else while (i <= numero)
             {
                 factorial *= i;
                 i++;

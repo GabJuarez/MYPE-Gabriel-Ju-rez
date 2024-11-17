@@ -1,0 +1,10 @@
+C:\Users\juare\OneDrive\Escritorio\Inventario\Getión de Inventario-G4\GestiónInventario\bin\Debug\GestiónInventario.exe.config
+C:\Users\juare\OneDrive\Escritorio\Inventario\Getión de Inventario-G4\GestiónInventario\bin\Debug\GestiónInventario.exe
+C:\Users\juare\OneDrive\Escritorio\Inventario\Getión de Inventario-G4\GestiónInventario\bin\Debug\GestiónInventario.pdb
+C:\Users\juare\OneDrive\Escritorio\Inventario\Getión de Inventario-G4\GestiónInventario\obj\Debug\GestiónInventario.csproj.AssemblyReference.cache
+C:\Users\juare\OneDrive\Escritorio\Inventario\Getión de Inventario-G4\GestiónInventario\obj\Debug\GestiónInventario.Form1.resources
+C:\Users\juare\OneDrive\Escritorio\Inventario\Getión de Inventario-G4\GestiónInventario\obj\Debug\GestiónInventario.Properties.Resources.resources
+C:\Users\juare\OneDrive\Escritorio\Inventario\Getión de Inventario-G4\GestiónInventario\obj\Debug\GestiónInventario.csproj.GenerateResource.cache
+C:\Users\juare\OneDrive\Escritorio\Inventario\Getión de Inventario-G4\GestiónInventario\obj\Debug\GestiónInventario.csproj.CoreCompileInputs.cache
+C:\Users\juare\OneDrive\Escritorio\Inventario\Getión de Inventario-G4\GestiónInventario\obj\Debug\GestiónInventario.exe
+C:\Users\juare\OneDrive\Escritorio\Inventario\Getión de Inventario-G4\GestiónInventario\obj\Debug\GestiónInventario.pdb
